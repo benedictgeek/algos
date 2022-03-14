@@ -1,4 +1,4 @@
-//  count unique values for an ordered array
+//count unique values for an ordered array
 
 let countUniqueValues = (array) => {
   if (array.length == 0) return 0;

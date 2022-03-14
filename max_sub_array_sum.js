@@ -1,3 +1,5 @@
+//finds largest sum of any sub array of given length 
+
 let solution = (array, subArrayLength) => {
   let sum = 0;
   //sum first subArray
